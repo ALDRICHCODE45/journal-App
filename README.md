@@ -12,7 +12,7 @@ this App was creting using the stack MERN
 ## Run localhost App 
 
 ```
-    yarnd dev
+    yarn dev
 
 ```
 
